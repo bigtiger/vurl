@@ -184,3 +184,13 @@ a#layout_history_link {
   color:#514721;
   border:2px solid #FFD324;
 }
+
+#tweets .tweet .tweet-left {
+  float: left;
+  padding-right: 10px;
+}
+
+#tweets .tweet .tweet-left img {
+  border: 2px solid black;
+}
+
